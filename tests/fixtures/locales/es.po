@@ -1,0 +1,8 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18n-test\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Hello"
+msgstr "Hola PO"

@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18n-test\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Hello"
+msgstr "Hello"
+
+msgid "Hello {name}"
+msgstr "Hello {name}"
+
+msgid "Welcome"
+msgstr "Welcome back"
+
+msgid "apple"
+msgid_plural "apples"
+msgstr[0] "apple"
+msgstr[1] "apples"
+
+msgid "{count} file"
+msgid_plural "{count} files"
+msgstr[0] "{count} file"
+msgstr[1] "{count} files"
+
+msgid "nav.home"
+msgstr "Home"
+
+msgctxt "menu"
+msgid "Open"
+msgstr "Open"
